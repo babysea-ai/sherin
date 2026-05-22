@@ -4,7 +4,7 @@ To improve community engagement around BabySea open-source projects, this reposi
 
 Please use the new repository location:
 
-[https://github.com/babysea-ai/sherin/blob/main/CHANGELOG.md](https://github.com/babysea-community/sherin/blob/main/CHANGELOG.md)
+[https://github.com/babysea-community/sherin/blob/main/CHANGELOG.md](https://github.com/babysea-community/sherin/blob/main/CHANGELOG.md)
 
 The new repository is the canonical home for source code, issues, pull requests, releases, security updates, and documentation. This old `babysea-ai` repository is kept only as a pointer so existing links, bookmarks, package metadata, and deploy buttons do not lead to a dead end.
 
